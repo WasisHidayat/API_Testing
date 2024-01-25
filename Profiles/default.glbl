@@ -14,4 +14,9 @@
       <initValue>''</initValue>
       <name>Draft_Id</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>SOAP_Total</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
